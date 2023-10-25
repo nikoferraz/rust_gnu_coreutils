@@ -1,0 +1,19 @@
+Step One
+342190 test.txt
+
+Step Two
+7145 test.txt
+
+Step Three
+58164 test.txt
+
+Step Four
+339292 test.txt
+
+Step Five
+  7145  58164 342190 test.txt
+
+Step Six
+7145
+
+FROM: https://codingchallenges.fyi/challenges/challenge-wc
